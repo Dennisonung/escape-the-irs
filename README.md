@@ -16,13 +16,6 @@ A zombie shooter where you have to defend your base and get upgrades along the w
 <br>
 <br>
 
-# project.greenfoot
-Copy the `project.greenfoot.md` file and rename it to `project.greenfoot`
-
-# Learn Markdown Basics
-[Markdown basics](https://www.markdownguide.org/getting-started/)
-
-
 # Escape the IRS
 genre: Tower Defense, Strategy, Resource Management
 A 3D tower defense game built in Greenfoot. Place and upgrade five tower types to fend off progressive waves of enemies, earn cash, and use special abilities.
